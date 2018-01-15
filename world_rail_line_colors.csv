@@ -1,0 +1,625 @@
+﻿"location","system","name","color","color group","stops","red","green","blue"
+"Adana, Turkey","Adana Metro","Line 1","#fb0219","Red",13,251,2,25
+"Algiers, Algeria","Algiers Metro","Line 1","#0076bd","Blue",14,0,118,189
+"Almaty, Kazakhstan","Almaty Metro","Almaty Metro","#1f1dfb","Blue",9,31,29,251
+"Amsterdam, Netherlands","Amsterdam Metro","Amstelveen Line, East Line","#f8991c","Orange",29,248,153,28
+"Amsterdam, Netherlands","Amsterdam Metro","East Line (Gaasperplas Branch)","#d91921","Red",14,217,25,33
+"Amsterdam, Netherlands","Amsterdam Metro","East Line (Gein Branch)","#ffcd15","Yellow",15,255,205,21
+"Amsterdam, Netherlands","Amsterdam Metro","Ring Line, East Line (Gein Branch)","#009d4d","Green",20,0,157,77
+"Ankara, Turkey","Ankara Metro","Ankaray Line","#0a660b","Green",11,10,102,11
+"Ankara, Turkey","Ankara Metro","M1","#fb0219","Red",12,251,2,25
+"Ankara, Turkey","Ankara Metro","M2","#fb0219","Red",11,251,2,25
+"Ankara, Turkey","Ankara Metro","M3","#fb0219","Red",11,251,2,25
+"Hiroshima, Japan","Astram Line","Astram Line","#f98d45","Orange",22,249,141,69
+"Athens, Greece","Athens Metro","Line 1","#09563d","Green",24,9,86,61
+"Athens, Greece","Athens Metro","Line 2","#e23739","Red",20,226,55,57
+"Athens, Greece","Athens Metro","Line 3","#186fab","Blue",21,24,111,171
+"Baku, Azerbaijan","Baku Metro","Line 1","#ed1c24","Red",13,237,28,36
+"Baku, Azerbaijan","Baku Metro","Line 2","#00ac5b","Green",10,0,172,91
+"Baku, Azerbaijan","Baku Metro","Line 3","#8e187c","Purple",2,142,24,124
+"Baltimore, United States","Baltimore Metro Subway","Baltimore Metro Subway","#10006b","Blue",14,16,0,107
+"Barcelona, Spain","Barcelona Metro","Line 1","#d83c3b","Red",30,216,60,59
+"Barcelona, Spain","Barcelona Metro","Line 10","#24a4d8","Blue",6,36,164,216
+"Barcelona, Spain","Barcelona Metro","Line 11","#a0c969","Green",5,160,201,105
+"Barcelona, Spain","Barcelona Metro","Line 12","#b6b3e1","Purple",2,182,179,225
+"Barcelona, Spain","Barcelona Metro","Line 2","#854286","Purple",18,133,66,134
+"Barcelona, Spain","Barcelona Metro","Line 3","#34a958","Green",26,52,169,88
+"Barcelona, Spain","Barcelona Metro","Line 4","#f2b639","Yellow",22,242,182,57
+"Barcelona, Spain","Barcelona Metro","Line 5","#1973ab","Blue",26,25,115,171
+"Barcelona, Spain","Barcelona Metro","Line 6","#7d7dac","Purple",8,125,125,172
+"Barcelona, Spain","Barcelona Metro","Line 7","#9a592a","Brown",7,154,89,42
+"Barcelona, Spain","Barcelona Metro","Line 8","#d574a1","Pink",11,213,116,161
+"Barcelona, Spain","Barcelona Metro","Line 9","#e78637","Orange",24,231,134,55
+"San Francisco, United States","Bay Area Rapid Transit","Dublin/Pleasanton-Daly City","#3aace0","Blue",18,58,172,224
+"San Francisco, United States","Bay Area Rapid Transit","Fremont-Daly City","#53b74e","Green",19,83,183,78
+"San Francisco, United States","Bay Area Rapid Transit","Pittsburg/Bay Point-SFO/Millbrae","#fbef63","Yellow",26,251,239,99
+"San Francisco, United States","Bay Area Rapid Transit","Richmond-Daly City/Millbrae","#de1b59","Pink",23,222,27,89
+"San Francisco, United States","Bay Area Rapid Transit","Richmond-Freemont","#f6a030","Orange",18,246,160,48
+"Beijing, China","Beijing Subway","Airport Express","#ab97aa","Purple",4,171,151,170
+"Beijing, China","Beijing Subway","Batong","#d52430","Red",13,213,36,48
+"Beijing, China","Beijing Subway","Changping","#be888d","Pink",12,190,136,141
+"Beijing, China","Beijing Subway","Daxing","#22908a","Teal",12,34,144,138
+"Beijing, China","Beijing Subway","Fangshan","#df654d","Red",11,223,101,77
+"Beijing, China","Beijing Subway","Line 1","#d52430","Red",23,213,36,48
+"Beijing, China","Beijing Subway","Line 10","#4e85b7","Blue",45,78,133,183
+"Beijing, China","Beijing Subway","Line 13","#f6c74c","Yellow",16,246,199,76
+"Beijing, China","Beijing Subway","Line 14","#d4a7a1","Pink",26,212,167,161
+"Beijing, China","Beijing Subway","Line 15","#482438","Purple",18,72,36,56
+"Beijing, China","Beijing Subway","Line 2","#364b8b","Blue",18,54,75,139
+"Beijing, China","Beijing Subway","Line 4","#22908a","Teal",24,34,144,138
+"Beijing, China","Beijing Subway","Line 5","#85255a","Purple",23,133,37,90
+"Beijing, China","Beijing Subway","Line 6","#a77e35","Brown",26,167,126,53
+"Beijing, China","Beijing Subway","Line 7","#ffc66e","Yellow",19,255,198,110
+"Beijing, China","Beijing Subway","Line 8","#42986f","Green",17,66,152,111
+"Beijing, China","Beijing Subway","Line 9","#9fc747","Green",13,159,199,71
+"Beijing, China","Beijing Subway","Yizhuang","#d22c81","Pink",13,210,44,129
+"Belo Horizonte, Brazil","Belo Horizonte Metro","Line 1","#1f3150","Blue",19,31,49,80
+"Berlin, Germany","Berlin U-Bahn","U1","#54a74b","Green",13,84,167,75
+"Berlin, Germany","Berlin U-Bahn","U2","#dc5331","Red",29,220,83,49
+"Berlin, Germany","Berlin U-Bahn","U3","#1e9d89","Teal",15,30,157,137
+"Berlin, Germany","Berlin U-Bahn","U4","#f9ce38","Yellow",5,249,206,56
+"Berlin, Germany","Berlin U-Bahn","U5","#735341","Brown",20,115,83,65
+"Berlin, Germany","Berlin U-Bahn","U55","#735341","Brown",3,115,83,65
+"Berlin, Germany","Berlin U-Bahn","U6","#796a99","Purple",29,121,106,153
+"Berlin, Germany","Berlin U-Bahn","U7","#1f94bd","Blue",40,31,148,189
+"Berlin, Germany","Berlin U-Bahn","U8","#115989","Blue",24,17,89,137
+"Berlin, Germany","Berlin U-Bahn","U9","#db7d35","Orange",18,219,125,53
+"Brasília, Brazil","Brasília Metro","Green Line","#46703e","Green",20,70,112,62
+"Brasília, Brazil","Brasília Metro","Orange Line","#d55527","Orange",16,213,85,39
+"Brescia, Italy","Brescia Metro","Line 1","#166f99","Blue",17,22,111,153
+"Brussels, Belgium","Brussels Metro","Line 1","#b92f92","Pink",21,185,47,146
+"Brussels, Belgium","Brussels Metro","Line 2","#f68a33","Orange",18,246,138,51
+"Brussels, Belgium","Brussels Metro","Line 3","#c1cd23","Green",27,193,205,35
+"Brussels, Belgium","Brussels Metro","Line 4","#f16f91","Pink",21,241,111,145
+"Brussels, Belgium","Brussels Metro","Line 5","#ffcf01","Yellow",28,255,207,1
+"Brussels, Belgium","Brussels Metro","Line 6","#007fb2","Blue",26,0,127,178
+"Brussels, Belgium","Brussels Metro","Line 7","#fff16e","Yellow",34,255,241,110
+"Bangkok, Thailand","BTS Skytrain","Silom Line","#157f7b","Teal",13,21,127,123
+"Bangkok, Thailand","BTS Skytrain","Sukhumvit Line","#7bb42c","Green",23,123,180,44
+"Bucharest, Romania","Bucharest Metro","M1","#f7c02a","Yellow",21,247,192,42
+"Bucharest, Romania","Bucharest Metro","M2","#1b7faf","Blue",14,27,127,175
+"Bucharest, Romania","Bucharest Metro","M3","#dc261a","Red",15,220,38,26
+"Bucharest, Romania","Bucharest Metro","M4","#1db760","Green",7,29,183,96
+"Budapest, Hungary","Budapest Metro","Line 1","#ffd500","Yellow",11,255,213,0
+"Budapest, Hungary","Budapest Metro","Line 2","#ee3129","Red",11,238,49,41
+"Budapest, Hungary","Budapest Metro","Line 3","#0063aa","Blue",20,0,99,170
+"Budapest, Hungary","Budapest Metro","Line 4","#4fa337","Green",10,79,163,55
+"Buenos Ares, Argentina","Buenos Aires Underground","Line A","#26aed9","Blue",18,38,174,217
+"Buenos Ares, Argentina","Buenos Aires Underground","Line B","#ea2e3f","Red",17,234,46,63
+"Buenos Ares, Argentina","Buenos Aires Underground","Line C","#1969b2","Blue",9,25,105,178
+"Buenos Ares, Argentina","Buenos Aires Underground","Line D","#138067","Green",16,19,128,103
+"Buenos Ares, Argentina","Buenos Aires Underground","Line E","#6b247e","Purple",15,107,36,126
+"Buenos Ares, Argentina","Buenos Aires Underground","Line H","#fdd12e","Yellow",11,253,209,46
+"Buenos Ares, Argentina","Buenos Aires Underground","Premetro","#fab93f","Orange",17,250,185,63
+"Buenos Ares, Argentina","Buenos Aires Underground","Urquiza LIne","#ef7127","Orange",23,239,113,39
+"Bursa, Turkey","Bursaray","Hat 1","#3eaa37","Green",20,62,170,55
+"Bursa, Turkey","Bursaray","Hat 2","#3eaa37","Green",31,62,170,55
+"Busan, South Korea","Busan Metro","Busan-Gimhae Light Rale","#8450a0","Purple",21,132,80,160
+"Busan, South Korea","Busan Metro","Line 1","#ed7b1f","Orange",34,237,123,31
+"Busan, South Korea","Busan Metro","Line 2","#38a14f","Green",43,56,161,79
+"Busan, South Korea","Busan Metro","Line 3","#daa343","Yellow",17,218,163,67
+"Busan, South Korea","Busan Metro","Line 4","#5276b8","Blue",14,82,118,184
+"Cairo, Egypt","Cairo Metro","Line 1","#287fc7","Blue",35,40,127,199
+"Cairo, Egypt","Cairo Metro","Line 2","#ed1f2c","Red",20,237,31,44
+"Cairo, Egypt","Cairo Metro","Line 3","#21ab49","Green",9,33,171,73
+"Caracas, Venezuela","Caracas Metro","Line 1","#f0161c","Red",22,240,22,28
+"Caracas, Venezuela","Caracas Metro","Line 2","#a2cf39","Green",13,162,207,57
+"Caracas, Venezuela","Caracas Metro","Line 3","#0e507a","Blue",9,14,80,122
+"Caracas, Venezuela","Caracas Metro","Line 4","#fcb829","Yellow",5,252,184,41
+"Catania, Italy","Catania Metro","Catania Metro","#ff0000","Red",6,255,0,0
+"Changsha, China","Changsha Metro","Line 1","#de021d","Red",20,222,2,29
+"Changsha, China","Changsha Metro","Line 2","#28adee","Blue",23,40,173,238
+"Chennai, India","Chennai Metro","Line 1 Elevated","#eb6e2b","Orange",7,235,110,43
+"Chennai, India","Chennai Metro","Line 1 Underground","#763b03","Brown",11,118,59,3
+"Chennai, India","Chennai Metro","Line 2 Elevated","#0266a1","Blue",9,2,102,161
+"Chennai, India","Chennai Metro","Line 2 Underground","#74b2cb","Blue",9,116,178,203
+"Chicago, United States","Chicago 'L'","Blue Line","#00a1de","Blue",33,0,161,222
+"Chicago, United States","Chicago 'L'","Brown Line","#62361b","Brown",27,98,54,27
+"Chicago, United States","Chicago 'L'","Green Line","#009b3a","Green",30,0,155,58
+"Chicago, United States","Chicago 'L'","Orange Line","#f9461c","Orange",16,249,70,28
+"Chicago, United States","Chicago 'L'","Pink Line","#e27ea6","Pink",22,226,126,166
+"Chicago, United States","Chicago 'L'","Purple Line","#522398","Purple",25,82,35,152
+"Chicago, United States","Chicago 'L'","Red Line","#c60c30","Red",33,198,12,48
+"Chicago, United States","Chicago 'L'","Yellow Line","#f9e300","Yellow",3,249,227,0
+"Chengdu, China","Chngdu Metro","Line 1","#3d2c7c","Purple",22,61,44,124
+"Chengdu, China","Chngdu Metro","Line 2","#e76146","Orange",32,231,97,70
+"Chengdu, China","Chngdu Metro","Line 3","#d4256a","Pink",17,212,37,106
+"Chengdu, China","Chngdu Metro","Line 4","#37ab64","Green",16,55,171,100
+"Chongqing, China","Chonqing Rail Transit","Line 1","#d82325","Red",23,216,35,37
+"Chongqing, China","Chonqing Rail Transit","Line 2","#149243","Green",25,20,146,67
+"Chongqing, China","Chonqing Rail Transit","Line 3","#1c7ebb","Blue",39,28,126,187
+"Chongqing, China","Chonqing Rail Transit","Line 6","#f299bd","Pink",33,242,153,189
+"Copenhagen, Denmark","Copenhagen Metro","M1","#008060","Teal",15,0,128,96
+"Copenhagen, Denmark","Copenhagen Metro","M2","#ffcb05","Yellow",16,255,203,5
+"Daegu, South Korea","Daegu Metro","Line 1","#d93f5c","Red",32,217,63,92
+"Daegu, South Korea","Daegu Metro","Line 2","#00aa80","Teal",29,0,170,128
+"Daegu, South Korea","Daegu Metro","Line 3","#ffb100","Yellow",30,255,177,0
+"Daejeon, South Korea","Daejeon Metro","Line 1","#f47d22","Orange",22,244,125,34
+"Dalian, China","Dalian Metro","Line 1","#008542","Green",14,0,133,66
+"Dalian, China","Dalian Metro","Line 2","#0066a1","Blue",17,0,102,161
+"Dalian, China","Dalian Metro","Line 202","#fd3f92","Pink",8,253,63,146
+"Dalian, China","Dalian Metro","Line 3","#e91a38","Red",18,233,26,56
+"Delhi, India","Delhi Metro","Airport Express (Orange Line)","#fb8d3b","Orange",6,251,141,59
+"Delhi, India","Delhi Metro","Blue Line","#2ccdea","Blue",51,44,205,234
+"Delhi, India","Delhi Metro","Green Line","#3cf17b","Green",16,60,241,123
+"Delhi, India","Delhi Metro","Red Line","#fb423e","Red",21,251,66,62
+"Delhi, India","Delhi Metro","Violet Line","#1e55e6","Blue",28,30,85,230
+"Delhi, India","Delhi Metro","Yellow Line","#f7b545","Orange",37,247,181,69
+"Dnipro, Ukraine","Dnipropetrovsk Metro","Line 1","#f00000","Red",6,240,0,0
+"Dongguan, China","Dongguan Metro","Line 2","#d700c2","Pink",15,215,0,194
+"Dubai, United Arab Emirates","Dubai Metro","Green Line","#4ea84d","Green",20,78,168,77
+"Dubai, United Arab Emirates","Dubai Metro","Red Line","#e93b2f","Red",29,233,59,47
+"Foshan, China","FMetro","Guangfo Line","#a6ca52","Green",18,166,202,82
+"Fukuoka, Japan","Fukuoka City Subway","Hakozaki Line","#26a2e6","Blue",7,38,162,230
+"Fukuoka, Japan","Fukuoka City Subway","Kuko Line","#e75b1b","Orange",13,231,91,27
+"Fukuoka, Japan","Fukuoka City Subway","Nanakuma Line","#138a50","Green",16,19,138,80
+"Fuzhou, China","Fuzhou Metro","Line 1","#e62129","Red",9,230,33,41
+"Genoa, Italy","Genoa Metro","Metro","#ed1c24","Red",8,237,28,36
+"Glasgow, Scotland","Glasgow Subway","Inner Circle","#4d4f53","Grey",15,77,79,83
+"Glasgow, Scotland","Glasgow Subway","Outer Circle","#fc9824","Orange",15,252,152,36
+"Guangzhou, China","Guangzhou Metro","Line 1","#ede748","Yellow",16,237,231,72
+"Guangzhou, China","Guangzhou Metro","Line 2","#375190","Blue",24,55,81,144
+"Guangzhou, China","Guangzhou Metro","Line 3","#d65d33","Orange",28,214,93,51
+"Guangzhou, China","Guangzhou Metro","Line 4","#148745","Green",16,20,135,69
+"Guangzhou, China","Guangzhou Metro","Line 5","#d52630","Red",24,213,38,48
+"Guangzhou, China","Guangzhou Metro","Line 6","#772059","Purple",22,119,32,89
+"Guangzhou, China","Guangzhou Metro","Line 8","#277e85","Teal",13,39,126,133
+"Guangzhou, China","Guangzhou Metro","Zhujiang APM","#44aeb2","Teal",9,68,174,178
+"Gwangju, South Korea","Gwangju Metro","Line 1","#699f38","Green",20,105,159,56
+"Hamburg, Germany","Hamburg U-Bahn","U1","#1768a3","Blue",46,23,104,163
+"Hamburg, Germany","Hamburg U-Bahn","U2","#d52230","Red",25,213,34,48
+"Hamburg, Germany","Hamburg U-Bahn","U3","#fcd937","Yellow",25,252,217,55
+"Hamburg, Germany","Hamburg U-Bahn","U4","#1d9f9a","Teal",11,29,159,154
+"Hangzhou, China","Hangzhou Metro","Line 1","#b00016","Red",34,176,0,22
+"Hangzhou, China","Hangzhou Metro","Line 2","#f4aa23","Yellow",13,244,170,35
+"Hangzhou, China","Hangzhou Metro","Line 4","#22a12c","Green",10,34,161,44
+"Harbin, China","Harbin Metro","Line 1","#fb0219","Red",18,251,2,25
+"Helsinki, Finland","Helsinki Metro","M1","#eb6d3c","Orange",22,235,109,60
+"Helsinki, Finland","Helsinki Metro","M2","#eb6d3c","Orange",19,235,109,60
+"Incheon, South Korea","Incheon Subway","Line 1","#6996d2","Blue",29,105,150,210
+"Incheon, South Korea","Incheon Subway","Line 2","#ff2f00","Red",27,255,47,0
+"Isfahan, Iran","Isfahan Metro","Line 1","#fc0808","Red",10,252,8,8
+"Istanbul, Turkey","Istanbul Metro","M1","#e40515","Red",23,228,5,21
+"Istanbul, Turkey","Istanbul Metro","M2","#159a3f","Green",16,21,154,63
+"Istanbul, Turkey","Istanbul Metro","M3","#2398d9","Blue",11,35,152,217
+"Istanbul, Turkey","Istanbul Metro","M4","#e3328c","Pink",19,227,50,140
+"Istanbul, Turkey","Istanbul Metro","M6","#cbaa77","Brown",4,203,170,119
+"Izmir, Turkey","Izmir Metro","Line 1","#091874","Blue",17,9,24,116
+"Jaipur, India","Jaipur Metro","Pink Line","#ff06ff","Pink",9,255,6,255
+"Kaohsiung, Taiwan","Kaohsiung Mass Rapid Transit","Circular Line","#7dbb52","Green",8,125,187,82
+"Kaohsiung, Taiwan","Kaohsiung Mass Rapid Transit","Orange Line","#f89828","Orange",14,248,152,40
+"Kaohsiung, Taiwan","Kaohsiung Mass Rapid Transit","Red Line","#e10b64","Pink",23,225,11,100
+"Kazan, Russia","Kazan Metro","Line 1","#fb0219","Red",10,251,2,25
+"Kharkiv, Ukraine","Kharkiv Metro","Kholodnohirsko-Zavodska Line","#d92a22","Red",13,217,42,34
+"Kharkiv, Ukraine","Kharkiv Metro","Oleksiivska Line","#14913b","Green",9,20,145,59
+"Kharkiv, Ukraine","Kharkiv Metro","Saltivska Line","#13509a","Blue",8,19,80,154
+"Kiev, Ukraine","Kiev Metro","Line 1 (Sviatoshynsko-Brovarska)","#e60216","Red",18,230,2,22
+"Kiev, Ukraine","Kiev Metro","Line 2 (Kurenivsko-Chervonoarmiyska)","#2f6eb5","Blue",18,47,110,181
+"Kiev, Ukraine","Kiev Metro","Line 3 (Syretsko-Pecherska)","#159935","Green",16,21,153,53
+"Kobe, Japan","Kobe Municipal Subway","Kaigan Line","#114997","Blue",10,17,73,151
+"Kobe, Japan","Kobe Municipal Subway","Seishin-Yamate Line","#126553","Teal",17,18,101,83
+"Kobe, Japan","Kobe Rapid Transit Railway","Hokushin Line","#b67d38","Brown",2,182,125,56
+"Kobe, Japan","Kobe Rapid Transit Railway","Namboku Line","#186cad","Blue",2,24,108,173
+"Kobe, Japan","Kobe Rapid Transit Railway","Tozai Line","#9bceab","Teal",11,155,206,171
+"Kolkata, India","Kolkata Metro","Line 1","#259e54","Green",24,37,158,84
+"Kunming, China","Kunming Rail Transit","Line 1","#ff0000","Red",25,255,0,0
+"Kunming, China","Kunming Rail Transit","Line 2","#0d3ba9","Blue",22,13,59,169
+"Kunming, China","Kunming Rail Transit","Line 6","#00a2e8","Blue",6,0,162,232
+"Kyoto, Japan","Kyoto Municipal Subway","Karasuma Line","#00b0b2","Teal",15,0,176,178
+"Kyoto, Japan","Kyoto Municipal Subway","Tozai Line","#ed1c24","Red",17,237,28,36
+"Lausanne, Switzerland","Lausanne Metro","M1 Line","#ec008c","Pink",15,236,0,140
+"Lausanne, Switzerland","Lausanne Metro","M2 Line","#ec008c","Pink",14,236,0,140
+"Lille, France","Lille Metro","Line 1","#fcdb2e","Yellow",19,252,219,46
+"Lille, France","Lille Metro","Line 2","#df0224","Red",45,223,2,36
+"Lima, Peru","Lima Metro","Line 1","#4ba947","Green",26,75,169,71
+"Lisbon, Portugal","Lisbon Metro","Caravel Line","#20aca9","Teal",13,32,172,169
+"Lisbon, Portugal","Lisbon Metro","Orient Line","#ee3c7a","Pink",12,238,60,122
+"Lisbon, Portugal","Lisbon Metro","Seagull Line","#5889c6","Blue",18,88,137,198
+"Lisbon, Portugal","Lisbon Metro","Sunflower Line","#fcba2f","Yellow",13,252,186,47
+"London, England","London Underground","Bakerloo","#894e24","Brown",25,137,78,36
+"London, England","London Underground","Central","#dc241f","Red",49,220,36,31
+"London, England","London Underground","Circle","#ffce00","Yellow",36,255,206,0
+"London, England","London Underground","District","#007229","Green",60,0,114,41
+"London, England","London Underground","Docklands Light Railway","#00afad","Teal",45,0,175,173
+"London, England","London Underground","Hammersmith & City","#d799af","Pink",29,215,153,175
+"London, England","London Underground","Jubilee","#868f98","Grey",27,134,143,152
+"London, England","London Underground","London Trams","#00bd19","Green",39,0,189,25
+"London, England","London Underground","Metropolitan","#751056","Purple",34,117,16,86
+"London, England","London Underground","Northern","#000000","Grey",50,0,0,0
+"London, England","London Underground","Piccadilly","#0019a8","Blue",53,0,25,168
+"London, England","London Underground","Transport for London Rail","#0019a8","Blue",14,0,25,168
+"London, England","London Underground","Victora","#00a0e2","Blue",16,0,160,226
+"London, England","London Underground","Waterloo & City","#76d0bd","Teal",2,118,208,189
+"Lyon, France","Lyon Metro","Line A","#d83c87","Pink",14,216,60,135
+"Lyon, France","Lyon Metro","Line B","#1975ae","Blue",10,25,117,174
+"Lyon, France","Lyon Metro","Line C","#e99539","Orange",5,233,149,57
+"Lyon, France","Lyon Metro","Line D","#179f4d","Green",15,23,159,77
+"Madrid, Spain","Madrid Metro","Line 1","#53bccb","Blue",33,83,188,203
+"Madrid, Spain","Madrid Metro","Line 10","#145f9a","Blue",31,20,95,154
+"Madrid, Spain","Madrid Metro","Line 11","#179c4c","Green",7,23,156,76
+"Madrid, Spain","Madrid Metro","Line 12","#978f26","Green",28,151,143,38
+"Madrid, Spain","Madrid Metro","Line 2","#db4e44","Red",20,219,78,68
+"Madrid, Spain","Madrid Metro","Line 3","#f9cd38","Yellow",18,249,205,56
+"Madrid, Spain","Madrid Metro","Line 4","#bd692e","Orange",23,189,105,46
+"Madrid, Spain","Madrid Metro","Line 5","#85be49","Green",32,133,190,73
+"Madrid, Spain","Madrid Metro","Line 6","#b2ab9b","Grey",28,178,171,155
+"Madrid, Spain","Madrid Metro","Line 7","#e98f40","Orange",30,233,143,64
+"Madrid, Spain","Madrid Metro","Line 8","#e093b5","Pink",8,224,147,181
+"Madrid, Spain","Madrid Metro","Line 9","#8c3680","Purple",29,140,54,128
+"Madrid, Spain","Madrid Metro","ML1","#527aae","Blue",9,82,122,174
+"Madrid, Spain","Madrid Metro","ML2","#8c3680","Purple",13,140,54,128
+"Madrid, Spain","Madrid Metro","ML3","#dc4e44","Red",16,220,78,68
+"Madrid, Spain","Madrid Metro","Ramal","#145f9a","Blue",2,20,95,154
+"Manila, Philippines","Manila Light Rail Transit System","Line 1","#008a51","Green",20,0,138,81
+"Manila, Philippines","Manila Light Rail Transit System","Line 2","#3b409e","Blue",11,59,64,158
+"Manila, Philippines","Manila Metro Rail Transit System","Line 3","#ffce2a","Yellow",13,255,206,42
+"Marseille, France","Marseille Metro","M1 Line","#0075bf","Blue",18,0,117,191
+"Marseille, France","Marseille Metro","M2 Line","#e30613","Red",12,227,6,19
+"Atlanta, United States","MARTA","Blue Line","#0082ca","Blue",15,0,130,202
+"Atlanta, United States","MARTA","Gold Line","#d4a723","Yellow",18,212,167,35
+"Atlanta, United States","MARTA","Green Line","#69bd47","Green",9,105,189,71
+"Atlanta, United States","MARTA","Red Line","#ec2527","Red",19,236,37,39
+"Mashhad, Iran","Mashhad Urban Railway","Line 1","#2f9666","Teal",24,47,150,102
+"Singapore","Mass Rapid Transit","Circle Line","#f5af4f","Orange",30,245,175,79
+"Singapore","Mass Rapid Transit","Downtown Line","#006fba","Blue",18,0,111,186
+"Singapore","Mass Rapid Transit","East West Line","#2a9c5e","Green",31,42,156,94
+"Singapore","Mass Rapid Transit","North East Line","#6f3b90","Purple",16,111,59,144
+"Singapore","Mass Rapid Transit","North South Line","#e41738","Red",26,228,23,56
+"Boston, United States","MBTA","Blue Line","#2f5da6","Blue",12,47,93,166
+"Boston, United States","MBTA","Green Line","#008150","Green",66,0,129,80
+"Boston, United States","MBTA","Orange Line","#fd8a03","Orange",19,253,138,3
+"Boston, United States","MBTA","Red Line","#fa2d27","Red",23,250,45,39
+"Boston, United States","MBTA","Silver Line","#9d9d9d","Grey",22,157,157,157
+"Mecca, Saudi Arabia","Mecca Metro","MMMSL","#fc6fcf","Pink",9,252,111,207
+"Medellín Colombia","Medellín Metro","Line A","#225e9c","Blue",21,34,94,156
+"Medellín Colombia","Medellín Metro","Line B","#e58c3d","Orange",7,229,140,61
+"Medellín Colombia","Medellín Metro","Line J","#f8c648","Yellow",4,248,198,72
+"Medellín Colombia","Medellín Metro","Line K","#b7cd4f","Green",4,183,205,79
+"Medellín Colombia","Medellín Metro","Line L","#8c5f2d","Brown",2,140,95,45
+"Bilbao, Spain","Metro Bilbao","Line 1","#f34e2f","Orange",29,243,78,47
+"Bilbao, Spain","Metro Bilbao","Line 2","#000000","Grey",27,0,0,0
+"Los Angeles, United States","Metro Rail","Blue Line","#0072bc","Blue",22,0,114,188
+"Los Angeles, United States","Metro Rail","Expo Line","#28c0e8","Blue",19,40,192,232
+"Los Angeles, United States","Metro Rail","Gold Line","#fdb913","Yellow",27,253,185,19
+"Los Angeles, United States","Metro Rail","Green Line","#6dc067","Green",14,109,192,103
+"Los Angeles, United States","Metro Rail","Purple Line","#a05da5","Purple",8,160,93,165
+"Los Angeles, United States","Metro Rail","Red Line","#ed1c24","Red",14,237,28,36
+"Bangkok, Thailand","Metropolitan Rapid Transit","Blue Line","#274172","Blue",19,39,65,114
+"Bangkok, Thailand","Metropolitan Rapid Transit","Purple Line","#7f147e","Purple",16,127,20,126
+"Miami, United States","Metrorail","Green Line","#8dc63f","Green",22,141,198,63
+"Miami, United States","Metrorail","Orange Line","#f7941d","Orange",16,247,148,29
+"Mexico City, Mexico","Mexico City Metro","Line 1","#e16894","Pink",20,225,104,148
+"Mexico City, Mexico","Mexico City Metro","Line 12","#a37e28","Brown",20,163,126,40
+"Mexico City, Mexico","Mexico City Metro","Line 2","#1871ab","Blue",24,24,113,171
+"Mexico City, Mexico","Mexico City Metro","Line 3","#838d40","Green",21,131,141,64
+"Mexico City, Mexico","Mexico City Metro","Line 4","#8bc1b1","Teal",10,139,193,177
+"Mexico City, Mexico","Mexico City Metro","Line 5","#fcdb44","Yellow",13,252,219,68
+"Mexico City, Mexico","Mexico City Metro","Line 6","#ca3934","Red",11,202,57,52
+"Mexico City, Mexico","Mexico City Metro","Line 7","#e88a49","Orange",14,232,138,73
+"Mexico City, Mexico","Mexico City Metro","Line 8","#158f60","Green",19,21,143,96
+"Mexico City, Mexico","Mexico City Metro","Line 9","#4c2e20","Brown",12,76,46,32
+"Mexico City, Mexico","Mexico City Metro","Line A","#7e3880","Purple",10,126,56,128
+"Mexico City, Mexico","Mexico City Metro","Line B","#107851","Green",11,16,120,81
+"Mexico City, Mexico","Mexico City Metro","Line B","#999ea0","Grey",10,153,158,160
+"Milan, Italy","Milan Metro","Line M1","#d73231","Red",38,215,50,49
+"Milan, Italy","Milan Metro","Line M2","#578d38","Green",35,87,141,56
+"Milan, Italy","Milan Metro","Line M3","#efb13a","Yellow",21,239,177,58
+"Milan, Italy","Milan Metro","Line M5","#8c90b9","Purple",19,140,144,185
+"Yokohama, Japan","Minatomirai Line","Minatomirai Line","#17549d","Blue",6,23,84,157
+"Minsk, Belarus","Minsk Metro","Autazavodskaja Line","#af434e","Red",14,175,67,78
+"Minsk, Belarus","Minsk Metro","Maskouskaja Line","#4c4a7a","Blue",15,76,74,122
+"Monterrey, Mexico","Monterrey Metro","Line 1","#febf50","Orange",19,254,191,80
+"Monterrey, Mexico","Monterrey Metro","Line 2","#6dc06a","Green",13,109,192,106
+"Montreal, Canada","Montreal Metro","Blue Line","#1e84c8","Blue",12,30,132,200
+"Montreal, Canada","Montreal Metro","Green Line","#18a554","Green",27,24,165,84
+"Montreal, Canada","Montreal Metro","Orange Line","#f2812f","Orange",31,242,129,47
+"Montreal, Canada","Montreal Metro","Yellow Line","#fdd32d","Yellow",3,253,211,45
+"Moscow, Russia","Moscow Metro","Line 1 Sokolnicheskaya","#ed1b35","Red",22,237,27,53
+"Moscow, Russia","Moscow Metro","Line 10 Lyublinsko-Dmitrovskaya","#b3d445","Green",20,179,212,69
+"Moscow, Russia","Moscow Metro","Line 11 Kakhovskaya","#79cdcd","Teal",3,121,205,205
+"Moscow, Russia","Moscow Metro","Line 12 Butovskaya","#acbfe1","Blue",7,172,191,225
+"Moscow, Russia","Moscow Metro","Line 13 Monorail","#2c87c5","Blue",6,44,135,197
+"Moscow, Russia","Moscow Metro","Line 14 Central Circle","#de0914","Red",26,222,9,20
+"Moscow, Russia","Moscow Metro","Line 2 Zamoskvoretskaya","#44b85c","Green",22,68,184,92
+"Moscow, Russia","Moscow Metro","Line 3 Arbatsko-Pokrovskaya","#0078bf","Blue",22,0,120,191
+"Moscow, Russia","Moscow Metro","Line 4 Filyovskaya","#19c1f3","Blue",13,25,193,243
+"Moscow, Russia","Moscow Metro","Line 5 Koltsevaya","#894e35","Brown",12,137,78,53
+"Moscow, Russia","Moscow Metro","Line 6 Kaluzhsko-Rizhskaya","#f58631","Orange",24,245,134,49
+"Moscow, Russia","Moscow Metro","Line 7 Tagansko-Krasnopresnenskaya","#8e479c","Purple",23,142,71,156
+"Moscow, Russia","Moscow Metro","Line 8 Kalininskaya","#ffcb31","Yellow",8,255,203,49
+"Moscow, Russia","Moscow Metro","Line 9 Serpukhovsko-Timiryazevskaya","#a1a2a3","Grey",25,161,162,163
+"Hong Kong","MTR","Airport Express","#126f73","Teal",5,18,111,115
+"Hong Kong","MTR","Disneyland Resort Line","#cd7fa9","Pink",2,205,127,169
+"Hong Kong","MTR","East Rail Line","#60b4d9","Blue",14,96,180,217
+"Hong Kong","MTR","Island Line","#1973ab","Blue",17,25,115,171
+"Hong Kong","MTR","Kwun Tong Line","#19a659","Green",17,25,166,89
+"Hong Kong","MTR","Light Rail","#d4ae33","Yellow",68,212,174,51
+"Hong Kong","MTR","Ma On Shan Line","#924523","Brown",9,146,69,35
+"Hong Kong","MTR","Tseung Kwan O Line","#88689d","Purple",8,136,104,157
+"Hong Kong","MTR","Tsuen Wan Line","#d73130","Red",16,215,49,48
+"Hong Kong","MTR","Tung Chung Line","#e88f39","Orange",8,232,143,57
+"Hong Kong","MTR","West Rail Line","#9a2a7c","Pink",12,154,42,124
+"Mumbai, India","Mumbai Metro","Line 1","#00adee","Blue",15,0,173,238
+"Munich, Germany","Munich U-Bahn","U1","#458137","Green",15,69,129,55
+"Munich, Germany","Munich U-Bahn","U2","#c41039","Red",27,196,16,57
+"Munich, Germany","Munich U-Bahn","U3","#f37032","Orange",25,243,112,50
+"Munich, Germany","Munich U-Bahn","U4","#00b48d","Teal",13,0,180,141
+"Munich, Germany","Munich U-Bahn","U5","#b87510","Brown",18,184,117,16
+"Munich, Germany","Munich U-Bahn","U6","#0072bc","Blue",26,0,114,188
+"Nagoya, Japan","Nagoya Municipal Subway","Higashiyama Line","#fcca2d","Yellow",22,252,202,45
+"Nagoya, Japan","Nagoya Municipal Subway","Kamiiida Line","#ef7292","Pink",2,239,114,146
+"Nagoya, Japan","Nagoya Municipal Subway","Meijo Line","#8e77b4","Purple",29,142,119,180
+"Nagoya, Japan","Nagoya Municipal Subway","Meiko Line","#8e77b4","Purple",7,142,119,180
+"Nagoya, Japan","Nagoya Municipal Subway","Meitetsu Inuyama Line","#28afed","Blue",13,40,175,237
+"Nagoya, Japan","Nagoya Municipal Subway","Meitetsu Komaki Line","#ef7292","Pink",15,239,114,146
+"Nagoya, Japan","Nagoya Municipal Subway","Meitetsu Mikawa Line","#28afed","Blue",2,40,175,237
+"Nagoya, Japan","Nagoya Municipal Subway","Meitetsu Toyota Line","#28afed","Blue",8,40,175,237
+"Nagoya, Japan","Nagoya Municipal Subway","Sakura-dori Line","#e91c35","Red",21,233,28,53
+"Nagoya, Japan","Nagoya Municipal Subway","Tsurumai Line","#28afed","Blue",20,40,175,237
+"Bangalore, India","Namma Metro","Green Line","#009b45","Green",13,0,155,69
+"Bangalore, India","Namma Metro","Purple Line","#a2006f","Pink",17,162,0,111
+"Nanchang, China","Nanchang Metro","Line 1","#e3033c","Red",24,227,3,60
+"Nanjing, China","Nanjing Metro","Line 1","#25a3dd","Blue",27,37,163,221
+"Nanjing, China","Nanjing Metro","Line 10","#e8c288","Yellow",14,232,194,136
+"Nanjing, China","Nanjing Metro","Line 2","#c40341","Red",26,196,3,65
+"Nanjing, China","Nanjing Metro","Line 3","#169553","Green",29,22,149,83
+"Nanjing, China","Nanjing Metro","Line S1","#52bbb4","Teal",8,82,187,180
+"Nanjing, China","Nanjing Metro","Line S8","#e9a059","Orange",17,233,160,89
+"Nanning, China","Nanning Rail Transit","Line 1","#dc2e4b","Red",10,220,46,75
+"Naples, Italy","Naples Metro","Line 1","#f4d038","Yellow",18,244,208,56
+"Naples, Italy","Naples Metro","Line 6","#7ebfe9","Blue",4,126,191,233
+"Naples, Italy","Naples Metro","Naples-Aversa Metro","#eb7c2a","Orange",15,235,124,42
+"New York City, United States","New York City Subway","BMT Broadway Line (N, Q, R)","#fccc0a","Yellow",79,252,204,10
+"New York City, United States","New York City Subway","BMT Canarsie Line (L)","#a7a9ac","Grey",24,167,169,172
+"New York City, United States","New York City Subway","BMT Nassau Street Line (J, Z)","#996633","Brown",30,153,102,51
+"New York City, United States","New York City Subway","IND Crosstown Line (G)","#6cbe45","Green",21,108,190,69
+"New York City, United States","New York City Subway","IND Eighth Avenue Line (A,C,E)","#2850ad","Blue",80,40,80,173
+"New York City, United States","New York City Subway","IND Sixth Avenue Line (B, D, F, M)","#ff6319","Orange",120,255,99,25
+"New York City, United States","New York City Subway","IRT Broadway-Seventh Avenue Line (1, 2, 3)","#ee352e","Red",93,238,53,46
+"New York City, United States","New York City Subway","IRT Flushing Line (7)","#b933ad","Purple",22,185,51,173
+"New York City, United States","New York City Subway","IRT Lexington Avenue Line (4, 5, 6)","#00933c","Green",101,0,147,60
+"New York City, United States","New York City Subway","Shuttles (S)","#808183","Grey",11,128,129,131
+"Ningbo, China","Ningbo Rail Transit","Line 1","#3180b7","Blue",29,49,128,183
+"Ningbo, China","Ningbo Rail Transit","Line 2","#cc0000","Red",22,204,0,0
+"Nizhny Novgorod, Russia","Nizhny Novgorod Metro","Line 1 (Avtozavodskaya)","#fb0219","Red",11,251,2,25
+"Nizhny Novgorod, Russia","Nizhny Novgorod Metro","Line 2 (Sormovskaya)","#1f1dfb","Blue",4,31,29,251
+"Novosibirsk, Russia","Novosibirsk Metro","Dzerzhinskaya","#009b42","Green",5,0,155,66
+"Novosibirsk, Russia","Novosibirsk Metro","Leninskaya","#dc0024","Red",8,220,0,36
+"Nuremberg, Germany","Nuremberg U-Bahn","U1","#1768a3","Blue",27,23,104,163
+"Nuremberg, Germany","Nuremberg U-Bahn","U11 Booster Line","#e88d52","Orange",14,232,141,82
+"Nuremberg, Germany","Nuremberg U-Bahn","U2","#d52230","Red",16,213,34,48
+"Nuremberg, Germany","Nuremberg U-Bahn","U21 Booster Line","#f9ce38","Yellow",15,249,206,56
+"Nuremberg, Germany","Nuremberg U-Bahn","U3","#3eb4af","Teal",11,62,180,175
+"Osaka, Japan","Osaka Municipal Subway","Chuo Line","#179868","Green",14,23,152,104
+"Osaka, Japan","Osaka Municipal Subway","Hankyu Kyoto Main Line","#7e4825","Brown",22,126,72,37
+"Osaka, Japan","Osaka Municipal Subway","Hankyu Senri Line","#7e4825","Brown",11,126,72,37
+"Osaka, Japan","Osaka Municipal Subway","Imazatosuji Line","#eb7a2a","Orange",11,235,122,42
+"Osaka, Japan","Osaka Municipal Subway","Keihanna Line","#179868","Green",8,23,152,104
+"Osaka, Japan","Osaka Municipal Subway","Kitakyu Namboku Line","#e02028","Red",4,224,32,40
+"Osaka, Japan","Osaka Municipal Subway","Midosuji Line","#e02028","Red",20,224,32,40
+"Osaka, Japan","Osaka Municipal Subway","Nagahori Tsurumi-ryokuchi Line","#a8ca58","Green",17,168,202,88
+"Osaka, Japan","Osaka Municipal Subway","Nanko Port Town Line","#24a0dc","Blue",10,36,160,220
+"Osaka, Japan","Osaka Municipal Subway","Sakaisuji Line","#7e4825","Brown",10,126,72,37
+"Osaka, Japan","Osaka Municipal Subway","Sennichimae Line","#e05092","Pink",14,224,80,146
+"Osaka, Japan","Osaka Municipal Subway","Tanimachi Line","#522a83","Purple",26,82,42,131
+"Osaka, Japan","Osaka Municipal Subway","Yotsubashi Line","#1b77b9","Blue",11,27,119,185
+"Oslo, Norway","Oslo Metro","Line 1","#009cdc","Blue",35,0,156,220
+"Oslo, Norway","Oslo Metro","Line 2","#ea5b0c","Orange",26,234,91,12
+"Oslo, Norway","Oslo Metro","Line 3","#a863a5","Purple",34,168,99,165
+"Oslo, Norway","Oslo Metro","Line 4","#004899","Blue",37,0,72,153
+"Oslo, Norway","Oslo Metro","Line 5","#3aaa35","Green",43,58,170,53
+"Panama City, Panama","Panama Metro","Line 1","#ec2029","Red",14,236,32,41
+"Paris, France","Paris Metro","Line 1","#ffcd02","Yellow",25,255,205,2
+"Paris, France","Paris Metro","Line 10","#e0b03b","Yellow",22,224,176,59
+"Paris, France","Paris Metro","Line 11","#8d6539","Brown",13,141,101,57
+"Paris, France","Paris Metro","Line 12","#008c5a","Green",29,0,140,90
+"Paris, France","Paris Metro","Line 13","#95cdec","Blue",36,149,205,236
+"Paris, France","Paris Metro","Line 14","#662d91","Purple",9,102,45,145
+"Paris, France","Paris Metro","Line 2","#006db8","Blue",25,0,109,184
+"Paris, France","Paris Metro","Line 3","#9b993b","Green",25,155,153,59
+"Paris, France","Paris Metro","Line 3bis","#88d3df","Blue",4,136,211,223
+"Paris, France","Paris Metro","Line 4","#bb4a9b","Purple",29,187,74,155
+"Paris, France","Paris Metro","Line 5","#f78f4b","Orange",22,247,143,75
+"Paris, France","Paris Metro","Line 6","#77c696","Teal",36,119,198,150
+"Paris, France","Paris Metro","Line 7","#f59eb3","Pink",38,245,158,179
+"Paris, France","Paris Metro","Line 7bis","#77c696","Teal",8,119,198,150
+"Paris, France","Paris Metro","Line 8","#c5a3cd","Purple",38,197,163,205
+"Paris, France","Paris Metro","Line 9","#cec92b","Yellow",37,206,201,43
+"Philadelpha, United States","PATCO Speedline","PATCO Speedline","#ba0234","Red",13,186,2,52
+"New York City, United States","Port Authority Trans-Hudson","Hoboken-33 Street","#0082c4","Blue",6,0,130,196
+"New York City, United States","Port Authority Trans-Hudson","Hoboken-World Trade Center","#009d57","Green",4,0,157,87
+"New York City, United States","Port Authority Trans-Hudson","Journal Square-33 Street","#fdb927","Yellow",8,253,185,39
+"New York City, United States","Port Authority Trans-Hudson","Newark-World Trade Center","#ee3524","Red",6,238,53,36
+"Porto Alegre, Brazil","Porto Alegre Metro","Line 1","#2893db","Blue",22,40,147,219
+"Prague, Czech Republic","Prague Metro","Line A","#18a15c","Green",17,24,161,92
+"Prague, Czech Republic","Prague Metro","Line B","#f5c24a","Yellow",24,245,194,74
+"Prague, Czech Republic","Prague Metro","Line C","#d63032","Red",20,214,48,50
+"Pyongyang, North Korea","Pyongyang Metro","Chollima line","#006d57","Teal",8,0,109,87
+"Pyongyang, North Korea","Pyongyang Metro","Hyoksin line","#e02000","Red",8,224,32,0
+"Qingdao, China","Qingdao Metro","Line 3","#096bb8","Blue",10,9,107,184
+"Kuala Lumpur, Malaysia","Rapid KL","Ampang Line","#fe8e10","Orange",8,254,142,16
+"Kuala Lumpur, Malaysia","Rapid KL","Kelana Jaya Line","#e0115f","Pink",37,224,17,95
+"Kuala Lumpur, Malaysia","Rapid KL","KL Monorail Line","#7dba00","Green",11,125,186,0
+"Kuala Lumpur, Malaysia","Rapid KL","Sri Petaling Line","#fe8e10","Orange",29,254,142,16
+"Gurgaon, India","Rapid MetroRail Gurgaon","Rapid Metro Line","#007dc2","Blue",6,0,125,194
+"Recife, Brazil","Recife Metro","Center 1","#fa641e","Orange",15,250,100,30
+"Recife, Brazil","Recife Metro","Center 2","#fa0218","Red",14,250,2,24
+"Recife, Brazil","Recife Metro","South","#1f1df9","Blue",13,31,29,249
+"Rennes, Fance","Rennes Metro","Line A","#de2b1c","Red",15,222,43,28
+"Tokyo, Japan","Rinkai Line","Rinkai Line","#2d3087","Blue",8,45,48,135
+"Rio de Janeiro, Brazil","Rio de Janeiro Metro","Line 1","#fa7a20","Orange",20,250,122,32
+"Rio de Janeiro, Brazil","Rio de Janeiro Metro","Line 2","#169e31","Green",26,22,158,49
+"Rio de Janeiro, Brazil","Rio de Janeiro Metro","Line 4","#fbc62c","Yellow",6,251,198,44
+"Rome, Italy","Rome Metro","Line A","#f36e21","Orange",27,243,110,33
+"Rome, Italy","Rome Metro","Line B","#0071bb","Blue",26,0,113,187
+"Rome, Italy","Rome Metro","Line C","#008752","Green",21,0,135,82
+"Rotterdam, Netherlands","Rotterdam Metro","Line A","#179c4c","Green",20,23,156,76
+"Rotterdam, Netherlands","Rotterdam Metro","Line B","#fcd937","Yellow",23,252,217,55
+"Rotterdam, Netherlands","Rotterdam Metro","Line C","#d73130","Red",26,215,49,48
+"Rotterdam, Netherlands","Rotterdam Metro","Line D","#3aaed6","Blue",17,58,174,214
+"Rotterdam, Netherlands","Rotterdam Metro","Line E","#253b7f","Blue",23,37,59,127
+"Cleveland, United States","RTA Rapid Transit","Blue Line","#3f6fad","Blue",24,63,111,173
+"Cleveland, United States","RTA Rapid Transit","Green Line","#6d9d31","Green",24,109,157,49
+"Cleveland, United States","RTA Rapid Transit","Red Line","#ed1c24","Red",18,237,28,36
+"Saint Petersburg, Russia","Saint Petersburg Metro","Line 1","#d51d3c","Red",19,213,29,60
+"Saint Petersburg, Russia","Saint Petersburg Metro","Line 2","#1f7dcc","Blue",18,31,125,204
+"Saint Petersburg, Russia","Saint Petersburg Metro","Line 3","#17985b","Green",10,23,152,91
+"Saint Petersburg, Russia","Saint Petersburg Metro","Line 4","#da6f1e","Orange",8,218,111,30
+"Saint Petersburg, Russia","Saint Petersburg Metro","Line 5","#6e1075","Purple",12,110,16,117
+"Salvador, Brazil","Salvador Metro","Line 1","#9e2804","Red",8,158,40,4
+"Samara, Russia","Samara Metro","Line 1","#f93e2a","Red",10,249,62,42
+"Santiago, Chile","Santiago Metro","Line 1","#ed1c24","Red",27,237,28,36
+"Santiago, Chile","Santiago Metro","Line 2","#f7941d","Orange",22,247,148,29
+"Santiago, Chile","Santiago Metro","Line 4","#2e3192","Blue",23,46,49,146
+"Santiago, Chile","Santiago Metro","Line 4A","#00aeef","Blue",6,0,174,239
+"Santiago, Chile","Santiago Metro","Line 5","#009444","Green",30,0,148,68
+"Santo Domingo, Dominican Republic","Santo Domingo Metro","Line 1","#3200c3","Blue",16,50,0,195
+"Santo Domingo, Dominican Republic","Santo Domingo Metro","Line 2","#dc0004","Red",14,220,0,4
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 1","#14549e","Blue",23,20,84,158
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 15","#899194","Grey",2,137,145,148
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 2","#127f60","Green",14,18,127,96
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 3","#ec403b","Red",18,236,64,59
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 4","#fdd32d","Yellow",7,253,211,45
+"Sao Paulo, Brazil","Sao Paulo Metro","Line 5","#a44598","Purple",7,164,69,152
+"Sapporo, Japan","Sapporo Municipal Subway","Namboku Line","#0f7745","Green",16,15,119,69
+"Sapporo, Japan","Sapporo Municipal Subway","Toho Line","#323c7e","Blue",14,50,60,126
+"Sapporo, Japan","Sapporo Municipal Subway","Tozai Line","#e29f46","Orange",19,226,159,70
+"Sendai, Japan","Sendai Subway","Namboku Line","#379568","Green",17,55,149,104
+"Sendai, Japan","Sendai Subway","Tozai Line","#44c8f5","Blue",13,68,200,245
+"Seoul, South Korea","Seoul Subway","AREX","#3d82b5","Blue",13,61,130,181
+"Seoul, South Korea","Seoul Subway","Bundang Line","#fcb228","Yellow",36,252,178,40
+"Seoul, South Korea","Seoul Subway","EverLine","#39a142","Green",15,57,161,66
+"Seoul, South Korea","Seoul Subway","Gyeongchung Line","#3ec6a6","Teal",22,62,198,166
+"Seoul, South Korea","Seoul Subway","Gyeonggang Line","#0054a6","Blue",11,0,84,166
+"Seoul, South Korea","Seoul Subway","Gyeongui-Jungang Line","#3ec6a6","Teal",52,62,198,166
+"Seoul, South Korea","Seoul Subway","Incheon Line 1","#6491be","Blue",29,100,145,190
+"Seoul, South Korea","Seoul Subway","Incheon Line 2","#f06a00","Orange",27,240,106,0
+"Seoul, South Korea","Seoul Subway","Line 1","#173790","Blue",114,23,55,144
+"Seoul, South Korea","Seoul Subway","Line 2","#39a142","Green",51,57,161,66
+"Seoul, South Korea","Seoul Subway","Line 3","#fa5b23","Orange",44,250,91,35
+"Seoul, South Korea","Seoul Subway","Line 4","#3da1c6","Blue",51,61,161,198
+"Seoul, South Korea","Seoul Subway","Line 5","#8a52a2","Purple",51,138,82,162
+"Seoul, South Korea","Seoul Subway","Line 6","#c25c27","Orange",38,194,92,39
+"Seoul, South Korea","Seoul Subway","Line 7","#546316","Green",51,84,99,22
+"Seoul, South Korea","Seoul Subway","Line 8","#f11763","Pink",17,241,23,99
+"Seoul, South Korea","Seoul Subway","Line 9","#a99874","Grey",30,169,152,116
+"Seoul, South Korea","Seoul Subway","Shinbundang Line","#c5222c","Red",12,197,34,44
+"Seoul, South Korea","Seoul Subway","Suin Line","#fcb228","Yellow",14,252,178,40
+"Seoul, South Korea","Seoul Subway","Uijeongbu Lrt Line","#eba83a","Yellow",15,235,168,58
+"Philadelpha, United States","SEPTA","Broad Street Line & Broad-Ridge Spur","#e06b36","Orange",25,224,107,54
+"Philadelpha, United States","SEPTA","Market-Frankford Line","#1973ac","Blue",28,25,115,172
+"Philadelpha, United States","SEPTA","Norristown High Speed Line","#68246a","Purple",22,104,36,106
+"Shanghai, China","Shanghai Metro","Line 1","#b33433","Red",28,179,52,51
+"Shanghai, China","Shanghai Metro","Line 10","#b7a1c0","Purple",31,183,161,192
+"Shanghai, China","Shanghai Metro","Line 11","#661b1f","Red",38,102,27,31
+"Shanghai, China","Shanghai Metro","Line 12","#007b5f","Teal",32,0,123,95
+"Shanghai, China","Shanghai Metro","Line 13","#d88daf","Pink",19,216,141,175
+"Shanghai, China","Shanghai Metro","Line 16","#2cd5c4","Teal",13,44,213,196
+"Shanghai, China","Shanghai Metro","Line 2","#226d43","Green",30,34,109,67
+"Shanghai, China","Shanghai Metro","Line 3","#f8e74b","Yellow",29,248,231,75
+"Shanghai, China","Shanghai Metro","Line 4","#6f336a","Purple",26,111,51,106
+"Shanghai, China","Shanghai Metro","Line 5","#bb2b7e","Pink",11,187,43,126
+"Shanghai, China","Shanghai Metro","Line 6","#da5172","Pink",28,218,81,114
+"Shanghai, China","Shanghai Metro","Line 7","#e47835","Orange",33,228,120,53
+"Shanghai, China","Shanghai Metro","Line 8","#215896","Blue",30,33,88,150
+"Shanghai, China","Shanghai Metro","Line 9","#8fccd9","Blue",26,143,204,217
+"Shenyang, China","Shenyang Metro","Line 1","#c33020","Red",22,195,48,32
+"Shenyang, China","Shenyang Metro","Line 2","#fbdb84","Yellow",22,251,219,132
+"Shenzhen, China","Shenzhen Metro","Line 1","#10ad57","Green",30,16,173,87
+"Shenzhen, China","Shenzhen Metro","Line 11","#6c1635","Pink",18,108,22,53
+"Shenzhen, China","Shenzhen Metro","Line 2","#b34c21","Orange",29,179,76,33
+"Shenzhen, China","Shenzhen Metro","Line 3","#00a5df","Blue",30,0,165,223
+"Shenzhen, China","Shenzhen Metro","Line 4","#da0c17","Red",15,218,12,23
+"Shenzhen, China","Shenzhen Metro","Line 5","#954899","Purple",27,149,72,153
+"Shenzhen, China","Shenzhen Metro","Line 7","#023b8e","Blue",28,2,59,142
+"Shenzhen, China","Shenzhen Metro","Line 9","#84666d","Grey",22,132,102,109
+"Shiraz, Iran","Shiraz Metro","Line 1","#ea1f28","Red",8,234,31,40
+"Vancouver, Canada","SkyTrain","Canada Line","#1e90b5","Blue",13,30,144,181
+"Vancouver, Canada","SkyTrain","Expo Line","#125593","Blue",20,18,85,147
+"Vancouver, Canada","SkyTrain","Millenium Line","#f7cd38","Yellow",34,247,205,56
+"Sofia, Bulgaria","Sofia Metro","M1","#f90218","Red",23,249,2,24
+"Sofia, Bulgaria","Sofia Metro","M2","#193bd1","Blue",12,25,59,209
+"New York City, United States","Staten Island Railway","Staten Island Railway","#096bb6","Blue",22,9,107,182
+"Stockholm, Sweden","Stockholm Metro","T10","#273373","Blue",14,39,51,115
+"Stockholm, Sweden","Stockholm Metro","T11","#273373","Blue",12,39,51,115
+"Stockholm, Sweden","Stockholm Metro","T13","#dc5532","Red",25,220,85,50
+"Stockholm, Sweden","Stockholm Metro","T14","#dc5532","Red",19,220,85,50
+"Stockholm, Sweden","Stockholm Metro","T17","#75b84a","Green",24,117,184,74
+"Stockholm, Sweden","Stockholm Metro","T18","#75b84a","Green",23,117,184,74
+"Stockholm, Sweden","Stockholm Metro","T19","#75b84a","Green",35,117,184,74
+"Suzhou, China","Suzhou Rail Transit","Line 1","#69bd21","Green",24,105,189,33
+"Suzhou, China","Suzhou Rail Transit","Line 2","#f22b32","Red",35,242,43,50
+"Tabriz, Iran","Tabriz Metro","Line 1","#008e98","Teal",6,0,142,152
+"Taipei, Taiwan","Taipei Metro","Bannan Line","#0070bc","Blue",22,0,112,188
+"Taipei, Taiwan","Taipei Metro","Maokong Gondola","#79bc29","Green",4,121,188,41
+"Taipei, Taiwan","Taipei Metro","Songshan-Xindian Line","#018659","Green",19,1,134,89
+"Taipei, Taiwan","Taipei Metro","Tamsui-Xinyi Line","#e3002d","Red",27,227,0,45
+"Taipei, Taiwan","Taipei Metro","Wenhu Line","#c38c31","Brown",24,195,140,49
+"Taipei, Taiwan","Taipei Metro","Xiaobitan Branch","#dae11f","Green",2,218,225,31
+"Taipei, Taiwan","Taipei Metro","Xinbeitou Branch","#f4a5a8","Pink",2,244,165,168
+"Taipei, Taiwan","Taipei Metro","Zhonghi-Xinlu Line","#f8b51c","Yellow",27,248,181,28
+"Tashkent Uzbekistan","Tashkent Metro","Chilonzor Line","#f42b33","Red",12,244,43,51
+"Tashkent Uzbekistan","Tashkent Metro","O'zbekiston Line","#2c3b9c","Blue",11,44,59,156
+"Tashkent Uzbekistan","Tashkent Metro","Yunusobod Line","#4c7c44","Green",6,76,124,68
+"Tbilisi, Georgia","Tbilisi Metro","Akhmeteli-Varketili Line","#bd251c","Red",16,189,37,28
+"Tbilisi, Georgia","Tbilisi Metro","Saburtalo Line","#1e4a66","Blue",6,30,74,102
+"Tehran, Iran","Tehran Metro","Line 1","#e3191e","Red",30,227,25,30
+"Tehran, Iran","Tehran Metro","Line 2","#124895","Blue",22,18,72,149
+"Tehran, Iran","Tehran Metro","Line 3","#36bbed","Blue",19,54,187,237
+"Tehran, Iran","Tehran Metro","Line 4","#fdd22d","Yellow",22,253,210,45
+"Tehran, Iran","Tehran Metro","Line 5","#138257","Green",11,19,130,87
+"Tianjin, China","Tianjin Metro","Line 1","#e60000","Red",22,230,0,0
+"Tianjin, China","Tianjin Metro","Line 2","#ffff00","Yellow",20,255,255,0
+"Tianjin, China","Tianjin Metro","Line 3","#00bfff","Blue",26,0,191,255
+"Tianjin, China","Tianjin Metro","Line 6","#ee82ee","Pink",8,238,130,238
+"Tianjin, China","Tianjin Metro","Line 9","#003399","Blue",19,0,51,153
+"Tianjin, China","Tianjin Metro","TEDA","#8fc31f","Green",14,143,195,31
+"Tokyo, Japan","Toei Subway","Asakusa Line","#e96d68","Pink",20,233,109,104
+"Tokyo, Japan","Toei Subway","Mita Line","#196bb5","Blue",27,25,107,181
+"Tokyo, Japan","Toei Subway","Oedo Line","#d7086e","Pink",38,215,8,110
+"Tokyo, Japan","Toei Subway","Shinjuku Line","#7bb535","Green",21,123,181,53
+"Tokyo, Japan","Tokyo Metro","Chiyoda Line","#179a56","Green",20,23,154,86
+"Tokyo, Japan","Tokyo Metro","Fukutoshin Line","#c14b17","Orange",16,193,75,23
+"Tokyo, Japan","Tokyo Metro","Ginza Line","#f19b23","Orange",19,241,155,35
+"Tokyo, Japan","Tokyo Metro","Hanzomon Line","#9370DB","Purple",14,147,112,219
+"Tokyo, Japan","Tokyo Metro","Hibiya Line","#c9caca","Grey",21,201,202,202
+"Tokyo, Japan","Tokyo Metro","Marunouchi Line","#e2021e","Red",28,226,2,30
+"Tokyo, Japan","Tokyo Metro","Namboku Line","#1fae9a","Teal",19,31,174,154
+"Tokyo, Japan","Tokyo Metro","Tozai Line","#27aee5","Blue",23,39,174,229
+"Tokyo, Japan","Tokyo Metro","Yurakucho Line","#e8b527","Yellow",24,232,181,39
+"Toronto, Canada","Toronto Subway","Line 1 Yonge-University","#ffcb05","Yellow",32,255,203,5
+"Toronto, Canada","Toronto Subway","Line 2 Bloor-Danforth","#00a651","Green",31,0,166,81
+"Toronto, Canada","Toronto Subway","Line 3 Scarborough","#009bdf","Blue",6,0,155,223
+"Toronto, Canada","Toronto Subway","Line 4 Sheppard","#b30075","Pink",5,179,0,117
+"Toulouse, France","Toulouse Metro","Line A","#d52230","Red",18,213,34,48
+"Toulouse, France","Toulouse Metro","Line B","#fdef32","Yellow",20,253,239,50
+"San Juan, Puerto Rico","Tren Urbano","Line 1","#fccc2c","Yellow",16,252,204,44
+"Turin, Italy","Turin Metro","Line 1","#e1021a","Red",21,225,2,26
+"Vienna, Austria","Vienna U-Bahn","U1","#d52230","Red",19,213,34,48
+"Vienna, Austria","Vienna U-Bahn","U2","#935f96","Purple",20,147,95,150
+"Vienna, Austria","Vienna U-Bahn","U3","#e47835","Orange",21,228,120,53
+"Vienna, Austria","Vienna U-Bahn","U4","#16984c","Green",20,22,152,76
+"Vienna, Austria","Vienna U-Bahn","U6","#8a633f","Brown",24,138,99,63
+"Warsaw, Poland","Warsaw Metro","M1","#0b3c6f","Blue",21,11,60,111
+"Warsaw, Poland","Warsaw Metro","M2","#e01e2a","Red",7,224,30,42
+"Washington DC, United States","Washington Metro","Blue Line","#0076c0","Blue",26,0,118,192
+"Washington DC, United States","Washington Metro","Green Line","#00a94f","Green",17,0,169,79
+"Washington DC, United States","Washington Metro","Orange Line","#f7941d","Orange",27,247,148,29
+"Washington DC, United States","Washington Metro","Red Line","#e31837","Red",27,227,24,55
+"Washington DC, United States","Washington Metro","Silver Line","#a1a2a1","Grey",28,161,162,161
+"Washington DC, United States","Washington Metro","Yellow Line","#ffd200","Yellow",21,255,210,0
+"Wuhan, China","Wuhan Metro","Line 1","#0067a4","Blue",29,0,103,164
+"Wuhan, China","Wuhan Metro","Line 2","#e99bc1","Pink",21,233,155,193
+"Wuhan, China","Wuhan Metro","Line 3","#dab866","Orange",24,218,184,102
+"Wuhan, China","Wuhan Metro","Line 4","#b8d200","Green",28,184,210,0
+"Wuxi, China","Wuxi Metro","Line 1","#eb3e4a","Red",24,235,62,74
+"Wuxi, China","Wuxi Metro","Line 2","#19a341","Green",22,25,163,65
+"Xi'an, China","Xi'an Metro","Line 1","#0e68f4","Blue",19,14,104,244
+"Xi'an, China","Xi'an Metro","Line 2","#f15a25","Red",21,241,90,37
+"Xi'an, China","Xi'an Metro","Line 3","#e20dd7","Pink",26,226,13,215
+"Yekaterinburg, Russia","Yekaterinburg Metro","Line 1","#007d3d","Green",9,0,125,61
+"Yerevan, Armenia","Yerevan Metro","Line 1","#e8303a","Red",10,232,48,58
+"Yokohama, Japan","Yokohama Municipal Subway","Blue Line","#1a449b","Blue",33,26,68,155
+"Yokohama, Japan","Yokohama Municipal Subway","Green Line","#1d8b3b","Green",10,29,139,59
+"Zhengzhou, China","Zhengzhou Metro","Line 1","#e12323","Red",20,225,35,35
+"Zhengzhou, China","Zhengzhou Metro","Line 2","#ebd237","Yellow",16,235,210,55
