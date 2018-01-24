@@ -19,4 +19,5 @@
 
 **World rail line colors**
  * Rail colors shown in [Nicholas Rougeux](https://twitter.com/rougeux)'s [Color of Rails](https://www.c82.net/work/?id=355) project
+ * With changes as documented in [world_rail_line_colors.md](world_rail_line_colors.md)
  
