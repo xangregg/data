@@ -12,4 +12,4 @@ Version 2:
 
 Version 3:
 
-* Add [Santiago, Chile, Line 6](https://en.wikipedia.org/wiki/Santiago_Metro_Line_6)
+* Santiago, Chile - added [Line 6](https://en.wikipedia.org/wiki/Santiago_Metro_Line_6)
