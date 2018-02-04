@@ -12,9 +12,11 @@
 * "South/ Southeast Severe Weather March 2017" -> "Severe Weather 2017 2"
 
 **Cape Town rainfall averages**
-* Scraped from the graph in [Guardian story on 3 year drought](https://www.theguardian.com/cities/ng-interactive/2018/feb/03/day-zero-how-cape-town-running-out-water)
-* So the values are only approximate
-* I did a couple [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
+* capetownrainfallsince1977.csv is data from the CSAG JSON file: http://cip.csag.uct.ac.za/monitoring/gsod/data/688160_gsod_pr_day_1977-2018.json  
+   See graphs at http://www.csag.uct.ac.za/current-seasons-rainfall-in-cape-town/
+* capetown_rainfallsince.csv scraped from the graph in [Guardian story on 3 year drought](https://www.theguardian.com/cities/ng-interactive/2018/feb/03/day-zero-how-cape-town-running-out-water)  
+   So the values are only approximate.  
+   I did a couple [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
 
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
