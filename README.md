@@ -11,6 +11,10 @@
 * "Colorado Hail Storm and Central Severe Weather May 2017" -> "Severe Weather 2017"
 * "South/ Southeast Severe Weather March 2017" -> "Severe Weather 2017 2"
 
+**Cape Town rainfall averages**
+* Scraped from the graph in [Guardian story on 3 year drought](https://www.theguardian.com/cities/ng-interactive/2018/feb/03/day-zero-how-cape-town-running-out-water)
+* Some [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
+
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
 
