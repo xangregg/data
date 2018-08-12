@@ -21,6 +21,10 @@
    So the values are only approximate.  
    I did a couple [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
 
+**internet_speeds_summer_2018.csv**
+* Results from downloading a 10MB file 3 times an hour over 5+ weeks on my "up to 60Mb/s" connection.
+* A few graphs tweeted at https://twitter.com/xangregg/status/1028665493689913344.
+
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
 
