@@ -1,0 +1,244 @@
+Sector,Year,Count
+Other,1992,6
+Other,1993,8
+Other,1994,4
+Other,1995,1
+Other,1996,1
+Other,1997,2
+Other,1998,2
+Other,1999,2
+Other,2000,5
+Other,2001,4
+Other,2002,1
+Other,2003,2
+Other,2004,1
+Other,2005,1
+Other,2006,2
+Other,2007,0
+Other,2008,3
+Other,2009,4
+Other,2010,1
+Other,2011,1
+Other,2012,4
+Other,2013,6
+Other,2014,2
+Other,2015,1
+Other,2016,1
+Other,2017,2
+Other,2018,1
+Retail,1992,1
+Retail,1993,1
+Retail,1994,0
+Retail,1995,1
+Retail,1996,1
+Retail,1997,2
+Retail,1998,1
+Retail,1999,1
+Retail,2000,1
+Retail,2001,2
+Retail,2002,3
+Retail,2003,3
+Retail,2004,3
+Retail,2005,4
+Retail,2006,2
+Retail,2007,2
+Retail,2008,2
+Retail,2009,0
+Retail,2010,0
+Retail,2011,0
+Retail,2012,0
+Retail,2013,0
+Retail,2014,0
+Retail,2015,0
+Retail,2016,0
+Retail,2017,0
+Retail,2018,0
+Telecoms,1992,0
+Telecoms,1993,0
+Telecoms,1994,0
+Telecoms,1995,1
+Telecoms,1996,1
+Telecoms,1997,2
+Telecoms,1998,2
+Telecoms,1999,3
+Telecoms,2000,3
+Telecoms,2001,4
+Telecoms,2002,4
+Telecoms,2003,3
+Telecoms,2004,3
+Telecoms,2005,4
+Telecoms,2006,1
+Telecoms,2007,0
+Telecoms,2008,1
+Telecoms,2009,0
+Telecoms,2010,0
+Telecoms,2011,0
+Telecoms,2012,0
+Telecoms,2013,0
+Telecoms,2014,0
+Telecoms,2015,0
+Telecoms,2016,0
+Telecoms,2017,0
+Telecoms,2018,0
+Automobiles,1992,1
+Automobiles,1993,2
+Automobiles,1994,2
+Automobiles,1995,2
+Automobiles,1996,2
+Automobiles,1997,2
+Automobiles,1998,3
+Automobiles,1999,5
+Automobiles,2000,4
+Automobiles,2001,1
+Automobiles,2002,2
+Automobiles,2003,1
+Automobiles,2004,1
+Automobiles,2005,1
+Automobiles,2006,0
+Automobiles,2007,0
+Automobiles,2008,0
+Automobiles,2009,0
+Automobiles,2010,0
+Automobiles,2011,0
+Automobiles,2012,0
+Automobiles,2013,0
+Automobiles,2014,1
+Automobiles,2015,2
+Automobiles,2016,2
+Automobiles,2017,2
+Automobiles,2018,2
+Travel,1992,0
+Travel,1993,0
+Travel,1994,0
+Travel,1995,0
+Travel,1996,0
+Travel,1997,0
+Travel,1998,0
+Travel,1999,0
+Travel,2000,0
+Travel,2001,1
+Travel,2002,2
+Travel,2003,3
+Travel,2004,4
+Travel,2005,3
+Travel,2006,2
+Travel,2007,3
+Travel,2008,3
+Travel,2009,2
+Travel,2010,2
+Travel,2011,3
+Travel,2012,3
+Travel,2013,3
+Travel,2014,4
+Travel,2015,3
+Travel,2016,3
+Travel,2017,3
+Travel,2018,4
+Alcoholic drink,1992,4
+Alcoholic drink,1993,4
+Alcoholic drink,1994,6
+Alcoholic drink,1995,5
+Alcoholic drink,1996,5
+Alcoholic drink,1997,2
+Alcoholic drink,1998,2
+Alcoholic drink,1999,3
+Alcoholic drink,2000,4
+Alcoholic drink,2001,4
+Alcoholic drink,2002,2
+Alcoholic drink,2003,2
+Alcoholic drink,2004,2
+Alcoholic drink,2005,2
+Alcoholic drink,2006,2
+Alcoholic drink,2007,2
+Alcoholic drink,2008,2
+Alcoholic drink,2009,2
+Alcoholic drink,2010,1
+Alcoholic drink,2011,1
+Alcoholic drink,2012,1
+Alcoholic drink,2013,1
+Alcoholic drink,2014,1
+Alcoholic drink,2015,1
+Alcoholic drink,2016,1
+Alcoholic drink,2017,0
+Alcoholic drink,2018,0
+Financials,1992,2
+Financials,1993,1
+Financials,1994,1
+Financials,1995,0
+Financials,1996,1
+Financials,1997,1
+Financials,1998,2
+Financials,1999,1
+Financials,2000,2
+Financials,2001,2
+Financials,2002,3
+Financials,2003,5
+Financials,2004,5
+Financials,2005,2
+Financials,2006,4
+Financials,2007,4
+Financials,2008,3
+Financials,2009,3
+Financials,2010,9
+Financials,2011,6
+Financials,2012,5
+Financials,2013,5
+Financials,2014,4
+Financials,2015,4
+Financials,2016,3
+Financials,2017,4
+Financials,2018,4
+Gambling,1992,0
+Gambling,1993,0
+Gambling,1994,0
+Gambling,1995,0
+Gambling,1996,0
+Gambling,1997,0
+Gambling,1998,0
+Gambling,1999,0
+Gambling,2000,0
+Gambling,2001,0
+Gambling,2002,1
+Gambling,2003,0
+Gambling,2004,1
+Gambling,2005,1
+Gambling,2006,4
+Gambling,2007,4
+Gambling,2008,2
+Gambling,2009,7
+Gambling,2010,5
+Gambling,2011,7
+Gambling,2012,5
+Gambling,2013,3
+Gambling,2014,4
+Gambling,2015,7
+Gambling,2016,10
+Gambling,2017,9
+Gambling,2018,9
+Technology,1992,8
+Technology,1993,6
+Technology,1994,9
+Technology,1995,10
+Technology,1996,9
+Technology,1997,9
+Technology,1998,8
+Technology,1999,5
+Technology,2000,1
+Technology,2001,2
+Technology,2002,2
+Technology,2003,1
+Technology,2004,0
+Technology,2005,2
+Technology,2006,3
+Technology,2007,5
+Technology,2008,4
+Technology,2009,2
+Technology,2010,2
+Technology,2011,2
+Technology,2012,2
+Technology,2013,2
+Technology,2014,4
+Technology,2015,2
+Technology,2016,0
+Technology,2017,0
+Technology,2018,0
