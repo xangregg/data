@@ -31,6 +31,9 @@
 **wiseparatext.csv**
 * Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
 
+**shirt_sponsorship.csv**
+* Inferred data on Premier league shirt sponsorship over time from [this FT article](https://www.ft.com/content/61f3c8fc-9c86-11e8-9702-5946bae86e6d). Use for experimenting with alternates to streams.
+
 **World rail line colors**
  * Rail colors shown in [Nicholas Rougeux](https://twitter.com/rougeux)'s [Color of Rails](https://www.c82.net/work/?id=355) project
  * With changes as documented in [world_rail_line_colors.md](world_rail_line_colors.md)
