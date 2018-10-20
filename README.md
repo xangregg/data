@@ -34,6 +34,14 @@
 **shirt_sponsorship.csv**
 * Inferred data on Premier league shirt sponsorship over time from [this FT article](https://www.ft.com/content/61f3c8fc-9c86-11e8-9702-5946bae86e6d). Use for experimenting with alternates to streams.
 
+**travel_motivation_recoded_stacked.csv**
+* Recoded subset of [survey responses from /r/travel](https://www.reddit.com/r/travel/comments/99foe4/1000000_rtravel_subscriber_survey_results/).
+* Includes a few demographic fields and responses to the question "What motivates you to travel?"
+* This was a free-form text field. I recoded the responses into common terms and expanded multiple responses into multiple rows (with same respondent id).
+* For instance, "new cultures" could have been originally "different cultures", "see new cultures", "other lifestyles", ...
+* Surely, some bias or error was introduced during the recoding process.
+* I made a slopegraph of the [responses by gender](https://twitter.com/xangregg/status/1052718677299273728).
+
 **World rail line colors**
  * Rail colors shown in [Nicholas Rougeux](https://twitter.com/rougeux)'s [Color of Rails](https://www.c82.net/work/?id=355) project
  * With changes as documented in [world_rail_line_colors.md](world_rail_line_colors.md)
