@@ -28,8 +28,9 @@
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
 
-**wiseparatext.csv**
-* Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
+**pubdelays100.csv**
+* 100 publication delays for research with positive (70) and negative (30) results. Approximated from CDF graph in JAMA paper
+[Delays in the Publication of Important Clinical Trial Findings in Oncology](https://jamanetwork.com/journals/jamaoncology/fullarticle/2678095)
 
 **shirt_sponsorship.csv**
 * Inferred data on Premier league shirt sponsorship over time from [this FT article](https://www.ft.com/content/61f3c8fc-9c86-11e8-9702-5946bae86e6d). Use for experimenting with alternates to streams.
@@ -41,6 +42,9 @@
 * For instance, "new cultures" could have been originally "different cultures", "see new cultures", "other lifestyles", ...
 * Surely, some bias or error was introduced during the recoding process.
 * I made a slopegraph of the [responses by gender](https://twitter.com/xangregg/status/1052718677299273728).
+
+**wiseparatext.csv**
+* Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
 
 **World rail line colors**
  * Rail colors shown in [Nicholas Rougeux](https://twitter.com/rougeux)'s [Color of Rails](https://www.c82.net/work/?id=355) project
