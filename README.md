@@ -21,6 +21,11 @@
    So the values are only approximate.  
    I did a couple [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
 
+**Du Bois Georgia Map 1899**
+* Data shown on the [map by W.E.B. Du Bois](http://www.loc.gov/pictures/collection/anedub/item/2013650439/) of land ownership by blacks in 1899.
+* Note that the counties are a little different from today. You can find historical shapefiles at the [Atlas of Historical County Boundaries](https://publications.newberry.org/ahcbp/pages/Georgia.html) at Newberry Library.
+* My reproduction is on Twitter at https://twitter.com/xangregg/status/1094401138353418240.
+
 **internet_speeds_summer_2018.csv**
 * Results from downloading a 10MB file 3 times an hour over 5+ weeks on my "up to 60Mb/s" connection.
 * A few graphs tweeted at https://twitter.com/xangregg/status/1028665493689913344.
