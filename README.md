@@ -30,6 +30,15 @@
 * Results from downloading a 10MB file 3 times an hour over 5+ weeks on my "up to 60Mb/s" connection.
 * A few graphs tweeted at https://twitter.com/xangregg/status/1028665493689913344.
 
+**journal.pone.0216362.s003.csv**
+* Data from [Battle for the thermostat: Gender and the effect of temperature on cognitive performance](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0216362)
+* Converted form Stata DTA from to CSV
+* Added a few derived fields
+  * Added rounded version of temp field, so "19.1000003814697" is "19.1". I'm guessing the Stata file was compressed to use single precision floating point numbers.
+  * Computed wordscore for the word problem, since the participants were rewarded by total score rather than number complete.
+  * Added Gender=F|M from Male=0|1
+  * Added "Temp Category" to combine indicator variables: cool, normal, warm, hot
+
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
 
