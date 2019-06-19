@@ -30,6 +30,11 @@
 * Note that the counties are a little different from today. You can find historical shapefiles at the [Atlas of Historical County Boundaries](https://publications.newberry.org/ahcbp/pages/Georgia.html) at Newberry Library.
 * My reproduction is on Twitter at https://twitter.com/xangregg/status/1094401138353418240.
 
+**greenland_surface_melt.csv**
+* Data behind National Snow and Ice Data Center's [Greenland surface melt chart](https://nsidc.org/greenland-today/greenland-surface-melt-extent-interactive-chart/).
+* Missing days have been interpolated and a separate column indicates which dates were interpolated.
+* A few graphs tweeted at https://twitter.com/xangregg/status/1141133285088735233.
+
 **internet_speeds_summer_2018.csv**
 * Results from downloading a 10MB file 3 times an hour over 5+ weeks on my "up to 60Mb/s" connection.
 * A few graphs tweeted at https://twitter.com/xangregg/status/1028665493689913344.
