@@ -66,6 +66,11 @@
 * Surely, some bias or error was introduced during the recoding process.
 * I made a slopegraph of the [responses by gender](https://twitter.com/xangregg/status/1052718677299273728).
 
+**tukey_EDA_7.8_coal.csv**
+* Coal production data from John Tukey's 1977 book Exploratory Data Analysis, for time series smoothing
+* Includes two other overlapping sources: coal census -1956 and EIA 1949-.
+* The "combined" column uses data from the other sources for years where Tukey's table doesn't match his graphs
+
 **wiseparatext.csv**
 * Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
 
