@@ -71,6 +71,13 @@
 * Includes two other overlapping sources: coal census -1956 and EIA 1949-.
 * The "combined" column uses data from the other sources for years where Tukey's table doesn't match his graphs
 
+**vaccine_safety_expressing, vaccine_safety_tcell_secretions**
+* Data shown in Figure 2 of Covid-19 vaccine safety experiment paper: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31208-3/fulltext
+* scraped from PDF after converting to SVG, so should be high resolution and complete, but...
+* For the secretions scatter plots, each combination should have 36 dots, but the Day 0 groups are missing a few. Most values for those groups are clustered at the bottom of the scale so possibly they are clipped or omitted for space. Or maybe I made a mistake.
+* The pies show 7 of the 8 possible combinations of expressions. Not sure if the all negative category is omitted because it's empty or because it's uninteresting.
+* Proportions multiplied by 36 do not generally match integers. Seems like they should.
+
 **wiseparatext.csv**
 * Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
 
