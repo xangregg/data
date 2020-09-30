@@ -78,6 +78,10 @@
 * The pies show 7 of the 8 possible combinations of expressions. Not sure if the all negative category is omitted because it's empty or because it's uninteresting.
 * Proportions multiplied by 36 do not generally match integers. Seems like they should.
 
+**vitamin d survival.csv.csv**
+* Data digitized from scatterplot in vitamin D study: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239799
+* Some [make-over charts](https://twitter.com/xangregg/status/1311427226181734400) I posted to Twitter
+
 **wiseparatext.csv**
 * Timing test results for [log scale bars makeover blog post](http://blogs.sas.com/content/jmp/2016/06/29/graph-makeover-bars-on-a-log-scale/)
 
