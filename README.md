@@ -22,8 +22,9 @@
    I did a couple [remakes](https://twitter.com/xangregg/status/959906500725673985) on Twitter
 
 **crossword_times.csv**
-* 16 months of my own results for the New York Times daily crossword. Includes, time spent and whether I successfully completed the puzzle or not.
+* Four years of my own results for the New York Times daily crossword. Includes, time spent and whether I successfully completed the puzzle or not.
 * I made some graphs in a [Twitter thread](https://twitter.com/xangregg/status/1133026668178747394)
+* Latest graphs with [all four years of data](https://twitter.com/xangregg/status/1505575499338330114)
 
 **Du Bois Georgia Map 1899**
 * Data shown on the [map by W.E.B. Du Bois](http://www.loc.gov/pictures/collection/anedub/item/2013650439/) of land ownership by blacks in 1899.
