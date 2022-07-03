@@ -56,6 +56,24 @@
 * 100 publication delays for research with positive (70) and negative (30) results. Approximated from CDF graph in JAMA paper
 [Delays in the Publication of Important Clinical Trial Findings in Oncology](https://jamanetwork.com/journals/jamaoncology/fullarticle/2678095)
 
+**scented candle reviews.csv**
+* Selected features from 50,000 scented candle reviews across 20+ products
+* Features: 0 or 1 indicating whether review title or text included selected terms
+  * no smell narrow: no smell|scent
+  * no smell wide: no|zero|0|nothing smell|scent|fragrance|aroma
+  * bad smell: bad|awful|terrible smell|scent|fragrance|aroma
+  * broken: broken|shattered
+  * overwhelm: overwhelm|overpower
+  * artificial: artificial|synthetic
+* Related [tweeted charts](https://twitter.com/xangregg/status/1543273273898696707)
+* Note: Amazon merges reviews for some candles.
+  * Yankee Candle Balsam & Cedar includes White Christmas
+  * Yankee Candle Vanilla Cupcake includes Apple Pumpkin
+  * Yankee Candle Pineapple Cilantro includes Alfresco Afternoon
+  * Yankee Candle Sage & Citrus includes Honey Clementine
+  * Yankee Candle Pink Sands includes Calm & Quiet Place
+  * Chesapeake Bay Balance+Harmony includes Strength+Energy
+
 **shirt_sponsorship.csv**
 * Inferred data on Premier league shirt sponsorship over time from [this FT article](https://www.ft.com/content/61f3c8fc-9c86-11e8-9702-5946bae86e6d). Use for experimenting with alternates to streams.
 
