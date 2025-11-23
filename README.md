@@ -52,6 +52,10 @@
 **MosquitoTrendsData.csv**
 * Google Trends mosquito search data used for [state grid blog post](http://blogs.sas.com/content/jmp/2016/05/24/remaking-mosquito-trends-chart/)
 
+**Pseudovirus_panel_fig1b.csv**
+* Scraped data for 6 beeswarms [blog post](https://rawdatastudies.com/2025/11/22/beeswarm-attack/)
+
+Pseudovirus_panel_1b.csv
 **pubdelays100.csv**
 * 100 publication delays for research with positive (70) and negative (30) results. Approximated from CDF graph in JAMA paper
 [Delays in the Publication of Important Clinical Trial Findings in Oncology](https://jamanetwork.com/journals/jamaoncology/fullarticle/2678095)
